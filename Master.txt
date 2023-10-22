@@ -1,4 +1,0 @@
-
-  <Version: 2.0.0>
-      /data/200.zip https://github.com/listion2021/TheSkyMoon/raw/main/data.zip
-  <End of Version>
